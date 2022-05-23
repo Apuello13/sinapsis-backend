@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wX9MAEkxLurEgoZfG4aHhT/u7RdTnA+ynk+LwaF9YuE=",
+  "Source": "sinapsis-back",
+  "BasePath": "_content/sinapsis-back",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
